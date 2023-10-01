@@ -14,8 +14,7 @@ Users can:
 [[![screenshot1](https://github.com/nanatotibadze/worldwise/assets/106735126/790acf6b-0bed-4be2-8a06-10351864c3b3)
 ]
 ]()
-[![screenshot2](https://github.com/nanatotibadze/worldwise/assets/106735126/3be10dd3-6a3f-4279-a0a3-246212352e0b)
-]
+
 [![screenshot3](https://github.com/nanatotibadze/worldwise/assets/106735126/56dcc96e-0b8e-4040-b804-0211b3b77c57)
 ]
 [![screenshot5](https://github.com/nanatotibadze/worldwise/assets/106735126/efe0cfc2-bf4e-4b64-b1f0-86328c161fdf)
