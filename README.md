@@ -15,7 +15,7 @@ Users can:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://keeptracking.netlify.app/)
+- Live Site URL: [https://keeptracking.netlify.app/](https://keeptracking.netlify.app/)
 
 ## My process
 
