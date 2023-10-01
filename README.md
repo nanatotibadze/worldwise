@@ -11,7 +11,8 @@ Users can:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![![screenshot1](https://github.com/nanatotibadze/worldwise/assets/106735126/d21138e0-268a-48e6-ae80-37356d2a7267)
+](./screenshot.jpg)
 
 ### Links
 
