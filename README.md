@@ -18,6 +18,8 @@ Users can:
 ]
 [![screenshot3](https://github.com/nanatotibadze/worldwise/assets/106735126/56dcc96e-0b8e-4040-b804-0211b3b77c57)
 ]
+[![screenshot4](https://github.com/nanatotibadze/worldwise/assets/106735126/4e8694d4-65c5-4bb8-b7f9-e80d340a77c9)
+]
 
 ### Links
 
