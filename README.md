@@ -28,7 +28,7 @@ Users can:
 ### Built with
 
 - [React]
-- React-Router
+- React Router
 - Leaflet
 - vite
 
